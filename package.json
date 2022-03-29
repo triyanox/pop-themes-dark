@@ -1,0 +1,37 @@
+{
+  "name": "pop-themes-dark",
+  "displayName": "Pop Themes Dark",
+  "description": "Dark theme for vscode with pop colors",
+  "version": "1.0.1",
+  "publisher": "achaq",
+  "license": "MIT",
+  "icon": "icon.png",
+  "engines": {
+    "vscode": "^1.65.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/triyanox/pop-themes-dark"
+  },
+  "bugs": {
+    "url": "https://github.com/triyanox/pop-themes-dark/issues"
+  },
+  "keywords": [
+    "theme",
+    "pop",
+    "dark",
+    "vscode"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Pop Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Pop Dark-color-theme.json"
+      }
+    ]
+  }
+}
