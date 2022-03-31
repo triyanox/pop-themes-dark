@@ -1,6 +1,6 @@
 # Pop Themes Dark
 
-![Preview](https://achaq.codes/projects/pop-themes-dark.png)
+![Preview](/Previews/pop-themes-dark.png)
 
 ## Install
 

@@ -12,3 +12,7 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 1. New extension icon
 2. Preview image for the README file
+
+- v 1.0.3
+
+1. Fixing suggestion widget contrast issue
